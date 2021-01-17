@@ -1,0 +1,33 @@
+# phpstorm project files
+/backend/.idea
+
+# netbeans project files
+/backend/nbproject
+
+# zend studio for eclipse project files
+/backend/.buildpath
+/backend/.project
+/backend/.settings
+
+# windows thumbnail cache
+/backend/Thumbs.db
+
+# composer vendor dir
+/backend/vendor
+
+# composer itself is not needed
+/backend/composer.phar
+
+# Mac DS_Store Files
+/backend/.DS_Store
+
+# phpunit itself is not needed
+/backend/phpunit.phar
+# local phpunit config
+/backend/phpunit.xml
+
+/backend/tests/_output/*
+/backend/tests/_support/_generated
+
+#vagrant folder
+/backend/.vagrant
