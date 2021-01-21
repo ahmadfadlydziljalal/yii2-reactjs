@@ -71,7 +71,8 @@ $config = [
         'allowActions' => [
             'site/*',
             'admin/*',
-            'note/*'
+            'note/*',
+            'gii/*',
         ]
     ],
     'params' => $params,
